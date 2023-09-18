@@ -7,7 +7,7 @@ This project is to understand search, sort, filter, pagination in backend
 CyberWolves
 Implement Search, Sort, Filter and Pagination Rest API With Node JS | Express | MongoDB -->
 
-# Steps followed while doing this prohject
+# Steps followed while doing this project
 
 mkdir server
 cd server
